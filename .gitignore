@@ -1,0 +1,7 @@
+*.sql
+
+__pycache__/
+
+.env
+
+venv
